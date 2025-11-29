@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1926,
+    "genre": "History",
+    "available": true,
+    "publisher": {
+      "name": "Scribner",
+      "location": "New York"
+    }
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "genre": "Fiction",
+    "available": true,
+    "publisher": {
+      "name": "J. B. Lippincott & Co.",
+      "location": "Philadelphia"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "genre": "Romance",
+    "available": true,
+    "publisher": {
+      "name": "T. Egerton",
+      "location": "London"
+    }
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "genre": "Fiction",
+    "available": false,
+    "publisher": {
+      "name": "Little, Brown",
+      "location": "Boston"
+    }
+  },
+  {
+    "id": 8,
+    "title": "harry potter",
+    "author": "jk ",
+    "year": 2025,
+    "genre": "Fiction",
+    "available": true
+  }
+]
